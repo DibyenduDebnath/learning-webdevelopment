@@ -1,0 +1,19 @@
+{
+  "name": "learning-webdevelopment",
+  "version": "1.0.0",
+  "description": "Project For practice and learnig",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DibyenduDebnath/learning-webdevelopment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DibyenduDebnath/learning-webdevelopment/issues"
+  },
+  "homepage": "https://github.com/DibyenduDebnath/learning-webdevelopment#readme"
+}
